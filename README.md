@@ -33,6 +33,11 @@ This project was built on the principle of **Data Minimisation**:
 * **UI:** Custom XML Drawables & LayerLists for high-performance rendering
 * **Optimization:** R8/ProGuard enabled for minimized APK footprint and code obfuscation
 
+## 📸 Gallery
+| 1. Coding Preset (R/Python) | 2. Custom Settings | 3. Key Customization |
+| :---: | :---: | :---: |
+| <img src="screenshots/action.png" width="250"> | <img src="screenshots/settings.png" width="250"> | <img src="screenshots/edit.png" width="250"> |
+
 ---
 
 ## 📦 Installation & Setup
