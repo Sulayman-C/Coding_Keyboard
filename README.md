@@ -36,7 +36,7 @@ This project was built on the principle of **Data Minimisation**:
 ## 📸 Gallery
 | 1. Coding Preset (R/Python) | 2. Custom Settings | 3. Key Customization |
 | :---: | :---: | :---: |
-| <img src="screenshots/action.png" width="250"> | <img src="screenshots/settings.png" width="250"> | <img src="screenshots/edit.png" width="250"> |
+| <img src="Screenshots/action.png" width="250"> | <img src="Screenshots/settings.png" width="250"> | <img src="Screenshots/edit.png" width="250"> |
 
 ---
 
