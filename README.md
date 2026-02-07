@@ -34,7 +34,7 @@ This project was built on the principle of **Data Minimisation**:
 * **Optimization:** R8/ProGuard enabled for minimized APK footprint and code obfuscation
 
 ## 📸 Gallery
-| 1. Coding Preset (R/Python) | 2. Custom Settings | 3. Key Customization |
+| 1. Keyboard UI | 2. Custom Settings | 3. Key Customization |
 | :---: | :---: | :---: |
 | <img src="Screenshots/action.png" width="250"> | <img src="Screenshots/settings.png" width="250"> | <img src="Screenshots/edit.png" width="250"> |
 
